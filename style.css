@@ -5,6 +5,7 @@
 body {
     background-color: hsl(217, 54%, 11%);
     box-sizing: border-box;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
