@@ -10,7 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [NFT Preview Card](https://dejair-velozo.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
@@ -23,5 +23,5 @@ I've learned more about Semantic HTML and plain CSS. I will keep practicing so i
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dejair-velozo)
+- Frontend Mentor - [@dejair-velozo](https://www.frontendmentor.io/profile/dejair-velozo)
 
